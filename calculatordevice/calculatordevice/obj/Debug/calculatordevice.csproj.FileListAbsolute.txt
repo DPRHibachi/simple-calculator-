@@ -1,0 +1,10 @@
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\bin\Debug\calculatordevice.exe.config
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\bin\Debug\calculatordevice.exe
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\bin\Debug\calculatordevice.pdb
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\obj\Debug\calculatordevice.csproj.AssemblyReference.cache
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\obj\Debug\calculatordevice.Form1.resources
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\obj\Debug\calculatordevice.Properties.Resources.resources
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\obj\Debug\calculatordevice.csproj.GenerateResource.cache
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\obj\Debug\calculatordevice.csproj.CoreCompileInputs.cache
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\obj\Debug\calculatordevice.exe
+C:\Users\Claude\source\repos\calculatordevice\calculatordevice\obj\Debug\calculatordevice.pdb

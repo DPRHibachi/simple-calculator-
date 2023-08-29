@@ -1,6 +1,6 @@
 # Simple Calculator app written in C#
 
-** this is a simple calculator **
+**this is a simple calculator** 
 
 ## Features 
 * addition 
